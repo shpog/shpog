@@ -5,7 +5,7 @@ My personality type is INFJ-T.
 In my spare time I like working on open-source projects.
 
 Want to know more?
-Visit my website: https://shpog.repl.co
+[Visit my website!](https://shpog.repl.co)
 
 <!--
 **shpog/shpog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
